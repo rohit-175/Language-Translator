@@ -1,2 +1,2 @@
 # Language-Translator
-Language Translator using Python in Jupyter Notebook.
+Language Translator in Jupyter Notebook.
